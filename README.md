@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![quarter-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=quarter-p)](https://github.com/anuraghazra/github-readme-stats)
+
+![quarter-p's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=quarter-p&show_icons=true&count_private=true&layout=compact&hide_border=true&langs_count=10)
 <!--
 **quarter-p/quarter-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
